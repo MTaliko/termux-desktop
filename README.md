@@ -121,7 +121,7 @@ pkg update -y
 pkg install wget -y
 ```
 ```
-wget https://raw.githubusercontent.com/sabamdarif/termux-desktop/main/setup-termux-desktop
+wget https://raw.githubusercontent.com/MTaliko/termux-desktop/main/setup-termux-desktop
 ```
 ```
 chmod +x setup-termux-desktop
@@ -132,7 +132,7 @@ chmod +x setup-termux-desktop
 ## One Line Install:
 
 ```
-pkg update -y ; pkg install wget -y ; wget https://raw.githubusercontent.com/sabamdarif/termux-desktop/main/setup-termux-desktop ; chmod +x setup-termux-desktop ; ./setup-termux-desktop
+pkg update -y ; pkg install wget -y ; wget https://raw.githubusercontent.com/MTaliko/termux-desktop/main/setup-termux-desktop ; chmod +x setup-termux-desktop ; ./setup-termux-desktop
 ```
 
 <a name="uses"></a>
